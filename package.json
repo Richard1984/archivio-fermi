@@ -42,7 +42,7 @@
     "lodash": "^4.17.13",
     "minio": "^7.0.15",
     "mmmagic": "^0.5.3",
-    "mongoose": "^5.9.7",
+    "mongoose": "^5.13.2",
     "morgan": "^1.10.0",
     "multer": "^1.4.2",
     "passport": "^0.4.1",
